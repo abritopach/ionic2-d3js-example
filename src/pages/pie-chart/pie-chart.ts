@@ -35,7 +35,7 @@ export class PieChartPage {
   }
 
   ionViewDidLoad() {
-    console.log("ionViewDidLoad Pie Chart");
+    //console.log("ionViewDidLoad Pie Chart");
     this.initSvg()
     this.drawPie();
   }

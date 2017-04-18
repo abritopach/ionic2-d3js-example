@@ -28,12 +28,12 @@ export class BarChartPage {
   constructor(public navCtrl: NavController) {
     this.width = 900 - this.margin.left - this.margin.right ;
     this.height = 500 - this.margin.top - this.margin.bottom;
-    console.log("this.width: " + this.width);
-    console.log("this.height: " + this.height);
+    //console.log("this.width: " + this.width);
+    //console.log("this.height: " + this.height);
   }
 
   ionViewDidLoad() {
-    console.log("ionViewDidLoad Bar Chart");
+    //console.log("ionViewDidLoad Bar Chart");
     this.initSvg()
     this.initAxis();
     this.drawAxis();
