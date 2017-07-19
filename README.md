@@ -44,6 +44,8 @@ Before you go through this example, you should have at least a basic understandi
 	
 ## Ionic 3.5
 
+I create new repository with Ionic3.5: https://github.com/abritopach/ionic3.5-d3js-examples
+
 To test in Ionic 3.5 it is necessary to make the following modifications:
 
     ionic2-super-tabs ERROR: 
